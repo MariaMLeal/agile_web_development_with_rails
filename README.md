@@ -1,1 +1,0 @@
-# agile_web_development_with_rails
